@@ -14,6 +14,11 @@ public class Mail {
     
     public void Mail(){
             System.out.println("Hello this is a mail");
+            
+            System.out.println("Hello this is a mail");
+           for(int i = 0; i< 21; i++){
+           System.out.println("Hello this is a mail");
+           }
 }
     
 }
